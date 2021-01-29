@@ -39,8 +39,8 @@
     "roots/wordpress": "5.6",
     "roots/wp-config": "1.0.0",
     "roots/wp-password-bcrypt": "1.0.0",
-    "wpackagist-plugin/woocommerce": "^4.8",
-    "wpackagist-plugin/jetpack": "^9.2"
+    "wpackagist-plugin/woocommerce": "^4.9",
+    "wpackagist-plugin/jetpack": "^9.3"
   },
   "require-dev": {
     "squizlabs/php_codesniffer": "^3.5.8",
