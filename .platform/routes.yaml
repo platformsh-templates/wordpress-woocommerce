@@ -15,6 +15,14 @@
             - 'wordpress_test_cookie'
             - '/^wp-settings-/'
             - '/^wp-postpass/'
+            - '/^woocommerce_items_in_cart/'
+            - '/^woocommerce_cart_hash/'
+            - '/^wp_woocommerce_session_/'
+            - '/^woocommerce_recently_viewed/'
+            - '/store_notice/'
+            - '/woocommerce_snooze_suggestions__/'
+            - '/woocommerce_dismissed_suggestions__/'
+            - '/tk_ai/'
 
 "https://www.{default}/":
     type: redirect
