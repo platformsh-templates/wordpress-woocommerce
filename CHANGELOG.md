@@ -1,3 +1,27 @@
+### 1.16.1: 2021-07-30
+* Check if `.env.local` exists before loading it ([#603](https://github.com/roots/bedrock/pull/603))
+
+### 1.16.0: 2021-07-22 
+* Bump roots/wordpress from 5.7.2 to 5.8 ([#600](https://github.com/roots/bedrock/pull/600))
+* Default to `WP_DEBUG_LOG=true` in development ([#505](https://github.com/roots/bedrock/pull/505))
+* Support `.env.local` config override ([#594](https://github.com/roots/bedrock/pull/594))
+* Use Bedrock disallow indexing package ([#521](https://github.com/roots/bedrock/pull/521))
+
+### 1.15.4: 2021-05-19
+* Bump roots/wordpress from 5.7 to 5.7.2 ([#593](https://github.com/roots/bedrock/pull/593))
+* Bump composer/installers from 1.10.0 to 1.11.0 ([#592](https://github.com/roots/bedrock/pull/592))
+* chore(deps-dev): Bump squizlabs/php_codesniffer from 3.5.8 to 3.6.0 ([#588](https://github.com/roots/bedrock/pull/588))
+
+### 1.15.3: 2021-03-12
+* chore(deps): Bump roots/wordpress from 5.6.2 to 5.7 ([#578](https://github.com/roots/bedrock/pull/578))
+
+### 1.15.2: 2021-02-11
+
+* chore(deps): Bump roots/wordpress from 5.5.3 to 5.6.1 ([#573](https://github.com/roots/bedrock/pull/573))
+* chore(deps): Bump composer/installers from 1.9.0 to 1.10.0 ([#569](https://github.com/roots/bedrock/pull/569))
+* chore(deps): Bump vlucas/phpdotenv from 5.2.0 to 5.3.0 ([#570 ](https://github.com/roots/bedrock/pull/570))
+*  Add WP_POST_REVISIONS as an option ([#572](https://github.com/roots/bedrock/pull/572))
+
 ### 1.15.1: 2020-12-08
 
 * chore(deps): Bump roots/wordpress from 5.5.3 to 5.6 ([#567](https://github.com/roots/bedrock/pull/567))
