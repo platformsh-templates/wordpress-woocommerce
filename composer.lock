@@ -4,7 +4,7 @@
         "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#installing-dependencies",
         "This file is @generated automatically"
     ],
-    "content-hash": "020ad400dd854df8924de88760a800ca",
+    "content-hash": "dd7b06d2abf22f20ca196656efdbd001",
     "packages": [
         {
             "name": "composer/installers",
@@ -1056,15 +1056,15 @@
         },
         {
             "name": "wpackagist-plugin/jetpack",
-            "version": "10.8",
+            "version": "10.9",
             "source": {
                 "type": "svn",
                 "url": "https://plugins.svn.wordpress.org/jetpack/",
-                "reference": "tags/10.8"
+                "reference": "tags/10.9"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://downloads.wordpress.org/plugin/jetpack.10.8.zip"
+                "url": "https://downloads.wordpress.org/plugin/jetpack.10.9.zip"
             },
             "require": {
                 "composer/installers": "^1.0 || ^2.0"
@@ -1098,12 +1098,12 @@
             "source": {
                 "type": "git",
                 "url": "https://github.com/Roave/SecurityAdvisories.git",
-                "reference": "0e5a0abdd695cd45870e442647ef03a70f2ec1e5"
+                "reference": "d086677fd11abf47d22bffa8806efa422a15c9d0"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/Roave/SecurityAdvisories/zipball/0e5a0abdd695cd45870e442647ef03a70f2ec1e5",
-                "reference": "0e5a0abdd695cd45870e442647ef03a70f2ec1e5",
+                "url": "https://api.github.com/repos/Roave/SecurityAdvisories/zipball/d086677fd11abf47d22bffa8806efa422a15c9d0",
+                "reference": "d086677fd11abf47d22bffa8806efa422a15c9d0",
                 "shasum": ""
             },
             "conflict": {
@@ -1375,7 +1375,7 @@
                 "pusher/pusher-php-server": "<2.2.1",
                 "pwweb/laravel-core": "<=0.3.6-beta",
                 "rainlab/debugbar-plugin": "<3.1",
-                "remdex/livehelperchat": "<3.96",
+                "remdex/livehelperchat": "<3.99",
                 "rmccue/requests": ">=1.6,<1.8",
                 "robrichards/xmlseclibs": "<3.0.4",
                 "rudloff/alltube": "<3.0.3",
@@ -1577,7 +1577,7 @@
                     "type": "tidelift"
                 }
             ],
-            "time": "2022-04-29T21:04:00+00:00"
+            "time": "2022-05-03T21:04:27+00:00"
         },
         {
             "name": "squizlabs/php_codesniffer",
