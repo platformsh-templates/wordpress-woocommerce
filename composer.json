@@ -45,7 +45,7 @@
     "roots/wp-config": "1.0.0",
     "roots/wp-password-bcrypt": "1.1.0",
     "wpackagist-theme/twentytwentytwo": "^1.2",
-    "wpackagist-plugin/woocommerce": "^6.5",
+    "wpackagist-plugin/woocommerce": "^6.6",
     "wpackagist-plugin/jetpack": "^11.0"
   },
   "require-dev": {
