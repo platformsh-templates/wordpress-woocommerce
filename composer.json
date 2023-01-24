@@ -36,20 +36,20 @@
   ],
   "require": {
     "php": ">=7.4",
-    "composer/installers": "^2.1",
-    "vlucas/phpdotenv": "^5.4",
+    "composer/installers": "^2.2",
+    "vlucas/phpdotenv": "^5.5",
     "oscarotero/env": "^2.1",
     "roots/bedrock-autoloader": "^1.0",
     "roots/bedrock-disallow-indexing": "^2.0",
-    "roots/wordpress": "^6.0",
+    "roots/wordpress": "^6.1.1",
     "roots/wp-config": "1.0.0",
     "roots/wp-password-bcrypt": "1.1.0",
-    "wpackagist-theme/twentytwentytwo": "^1.2",
-    "wpackagist-plugin/woocommerce": "^6.6",
-    "wpackagist-plugin/jetpack": "^11.0"
+    "wpackagist-theme/twentytwentythree": "^1.0",
+    "wpackagist-plugin/woocommerce": "^7.3",
+    "wpackagist-plugin/jetpack": "^11.7"
   },
   "require-dev": {
-    "squizlabs/php_codesniffer": "^3.6.2",
+    "squizlabs/php_codesniffer": "^3.7.1",
     "roave/security-advisories": "dev-latest"
   },
   "config": {
