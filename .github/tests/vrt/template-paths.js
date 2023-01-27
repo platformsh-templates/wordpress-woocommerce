@@ -27,7 +27,8 @@ var scenarioPaths = {};
 scenarioPaths.paths = [
     {
         "label":"Product 1aBoyNRtmGYwD",
-        "path": "product/1aboynrtmgywd/"
+        "path": "product/1aboynrtmgywd/",
+        "delay": "2000"
     },
     {
         "label": "My Account",
