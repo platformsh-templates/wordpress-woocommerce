@@ -37,7 +37,11 @@ scenarioPaths.paths = [
 	{
 		"label": "Cart",
 		"path": "cart/"
-	}
+	},
+  {
+    "label": "Home",
+    "delay": 2000,
+  }
 ];
 
 module.exports = scenarioPaths;
