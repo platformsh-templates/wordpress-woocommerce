@@ -1,6 +1,6 @@
 /**
  * This is the default scenarios collection that will be used if there is not a theme-specific scenarios file in place
- * for a given theme. You can copy this file and then name it `theme-paths.js`.
+ * for a given theme. You can copy this file and then name it `template-paths.js`.
  *
  */
 
@@ -34,10 +34,14 @@ scenarioPaths.paths = [
         "label": "My Account",
         "path": "my-account/"
     },
-	{
-		"label": "Cart",
-		"path": "cart/"
-	}
+    {
+        "label": "Cart",
+        "path": "cart/"
+    },
+    {
+        "label": "Home",
+        "delay": 2000,
+    }
 ];
 
 module.exports = scenarioPaths;
