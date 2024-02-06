@@ -1171,12 +1171,12 @@
             "source": {
                 "type": "git",
                 "url": "https://github.com/Roave/SecurityAdvisories.git",
-                "reference": "794e58ed32820bf07fa2df520b6cf2cf24031192"
+                "reference": "f987aa7e659fe7b118c5564974a6ef9e37b1dd0f"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/Roave/SecurityAdvisories/zipball/794e58ed32820bf07fa2df520b6cf2cf24031192",
-                "reference": "794e58ed32820bf07fa2df520b6cf2cf24031192",
+                "url": "https://api.github.com/repos/Roave/SecurityAdvisories/zipball/f987aa7e659fe7b118c5564974a6ef9e37b1dd0f",
+                "reference": "f987aa7e659fe7b118c5564974a6ef9e37b1dd0f",
                 "shasum": ""
             },
             "conflict": {
@@ -1565,7 +1565,7 @@
                 "phpmailer/phpmailer": "<6.5",
                 "phpmussel/phpmussel": ">=1,<1.6",
                 "phpmyadmin/phpmyadmin": "<5.2.1",
-                "phpmyfaq/phpmyfaq": "<=3.1.7",
+                "phpmyfaq/phpmyfaq": "<3.2.5",
                 "phpoffice/phpexcel": "<1.8",
                 "phpoffice/phpspreadsheet": "<1.16",
                 "phpseclib/phpseclib": "<2.0.31|>=3,<3.0.34",
@@ -1685,7 +1685,7 @@
                 "studio-42/elfinder": "<2.1.62",
                 "subhh/libconnect": "<7.0.8|>=8,<8.1",
                 "sukohi/surpass": "<1",
-                "sulu/sulu": "<1.6.44|>=2,<2.2.18|>=2.3,<2.3.8|==2.4.0.0-RC1|>=2.5,<2.5.10",
+                "sulu/sulu": "<1.6.44|>=2,<2.4.16|>=2.5,<2.5.12",
                 "sumocoders/framework-user-bundle": "<1.4",
                 "superbig/craft-audit": "<3.0.2",
                 "swag/paypal": "<5.4.4",
@@ -1896,7 +1896,7 @@
                     "type": "tidelift"
                 }
             ],
-            "time": "2024-02-05T11:04:31+00:00"
+            "time": "2024-02-05T21:04:15+00:00"
         },
         {
             "name": "squizlabs/php_codesniffer",
