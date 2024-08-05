@@ -1172,12 +1172,12 @@
             "source": {
                 "type": "git",
                 "url": "https://github.com/Roave/SecurityAdvisories.git",
-                "reference": "25b3df97450d4b8ae46ab6c6a2441db776b3e00d"
+                "reference": "ff7456939acba6dd515a8a10aad66be6bc1b8dc1"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/Roave/SecurityAdvisories/zipball/25b3df97450d4b8ae46ab6c6a2441db776b3e00d",
-                "reference": "25b3df97450d4b8ae46ab6c6a2441db776b3e00d",
+                "url": "https://api.github.com/repos/Roave/SecurityAdvisories/zipball/ff7456939acba6dd515a8a10aad66be6bc1b8dc1",
+                "reference": "ff7456939acba6dd515a8a10aad66be6bc1b8dc1",
                 "shasum": ""
             },
             "conflict": {
@@ -1445,6 +1445,7 @@
                 "innologi/typo3-appointments": "<2.0.6",
                 "intelliants/subrion": "<4.2.2",
                 "inter-mediator/inter-mediator": "==5.5",
+                "ipl/web": "<0.10.1",
                 "islandora/islandora": ">=2,<2.4.1",
                 "ivankristianto/phpwhois": "<=4.3",
                 "jackalope/jackalope-doctrine-dbal": "<1.7.4",
@@ -1978,7 +1979,7 @@
                     "type": "tidelift"
                 }
             ],
-            "time": "2024-08-02T16:05:08+00:00"
+            "time": "2024-08-05T15:04:41+00:00"
         },
         {
             "name": "squizlabs/php_codesniffer",
