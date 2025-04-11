@@ -1172,12 +1172,12 @@
             "source": {
                 "type": "git",
                 "url": "https://github.com/Roave/SecurityAdvisories.git",
-                "reference": "27515dc524094e01d3cc1ce47c9218e6eb52d723"
+                "reference": "0aed63042cf8f0e7801a3277d4b088dd04a982e7"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/Roave/SecurityAdvisories/zipball/27515dc524094e01d3cc1ce47c9218e6eb52d723",
-                "reference": "27515dc524094e01d3cc1ce47c9218e6eb52d723",
+                "url": "https://api.github.com/repos/Roave/SecurityAdvisories/zipball/0aed63042cf8f0e7801a3277d4b088dd04a982e7",
+                "reference": "0aed63042cf8f0e7801a3277d4b088dd04a982e7",
                 "shasum": ""
             },
             "conflict": {
@@ -1983,7 +1983,7 @@
                 "yetiforce/yetiforce-crm": "<6.5",
                 "yidashi/yii2cmf": "<=2",
                 "yii2mod/yii2-cms": "<1.9.2",
-                "yiisoft/yii": "<1.1.29",
+                "yiisoft/yii": "<1.1.31",
                 "yiisoft/yii2": "<2.0.52",
                 "yiisoft/yii2-authclient": "<2.2.15",
                 "yiisoft/yii2-bootstrap": "<2.0.4",
@@ -2070,7 +2070,7 @@
                     "type": "tidelift"
                 }
             ],
-            "time": "2025-04-10T21:05:09+00:00"
+            "time": "2025-04-11T15:05:46+00:00"
         },
         {
             "name": "squizlabs/php_codesniffer",
