@@ -1183,12 +1183,12 @@
             "source": {
                 "type": "git",
                 "url": "https://github.com/Roave/SecurityAdvisories.git",
-                "reference": "070af2db86d1502f430fd627a045e7b078abf63f"
+                "reference": "3e3f82ed67bc5a5a3b880ad413e6c06c1c899322"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/Roave/SecurityAdvisories/zipball/070af2db86d1502f430fd627a045e7b078abf63f",
-                "reference": "070af2db86d1502f430fd627a045e7b078abf63f",
+                "url": "https://api.github.com/repos/Roave/SecurityAdvisories/zipball/3e3f82ed67bc5a5a3b880ad413e6c06c1c899322",
+                "reference": "3e3f82ed67bc5a5a3b880ad413e6c06c1c899322",
                 "shasum": ""
             },
             "conflict": {
@@ -1761,6 +1761,7 @@
                 "phpoffice/math": "<=0.2",
                 "phpoffice/phpexcel": "<=1.8.2",
                 "phpoffice/phpspreadsheet": "<1.30|>=2,<2.1.12|>=2.2,<2.4|>=3,<3.10|>=4,<5",
+                "phppgadmin/phppgadmin": "<=7.13",
                 "phpseclib/phpseclib": "<2.0.47|>=3,<3.0.36",
                 "phpservermon/phpservermon": "<3.6",
                 "phpsysinfo/phpsysinfo": "<3.4.3",
@@ -2170,7 +2171,7 @@
                     "type": "tidelift"
                 }
             ],
-            "time": "2025-11-19T21:05:11+00:00"
+            "time": "2025-11-20T19:05:16+00:00"
         },
         {
             "name": "squizlabs/php_codesniffer",
