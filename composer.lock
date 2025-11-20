@@ -1183,12 +1183,12 @@
             "source": {
                 "type": "git",
                 "url": "https://github.com/Roave/SecurityAdvisories.git",
-                "reference": "9a206edc1506db473b98aa05574bed12fe204a8a"
+                "reference": "070af2db86d1502f430fd627a045e7b078abf63f"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/Roave/SecurityAdvisories/zipball/9a206edc1506db473b98aa05574bed12fe204a8a",
-                "reference": "9a206edc1506db473b98aa05574bed12fe204a8a",
+                "url": "https://api.github.com/repos/Roave/SecurityAdvisories/zipball/070af2db86d1502f430fd627a045e7b078abf63f",
+                "reference": "070af2db86d1502f430fd627a045e7b078abf63f",
                 "shasum": ""
             },
             "conflict": {
@@ -1338,6 +1338,7 @@
                 "derhansen/sf_event_mgt": "<4.3.1|>=5,<5.1.1|>=7,<7.4",
                 "desperado/xml-bundle": "<=0.1.7",
                 "dev-lancer/minecraft-motd-parser": "<=1.0.5",
+                "devcode-it/openstamanager": "<=2.9.4",
                 "devgroup/dotplant": "<2020.09.14-dev",
                 "digimix/wp-svg-upload": "<=1",
                 "directmailteam/direct-mail": "<6.0.3|>=7,<7.0.3|>=8,<9.5.2",
@@ -2169,7 +2170,7 @@
                     "type": "tidelift"
                 }
             ],
-            "time": "2025-11-19T19:05:15+00:00"
+            "time": "2025-11-19T21:05:11+00:00"
         },
         {
             "name": "squizlabs/php_codesniffer",
