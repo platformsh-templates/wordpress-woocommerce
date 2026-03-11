@@ -481,7 +481,7 @@
         },
         {
             "name": "roots/wordpress",
-            "version": "6.9.3",
+            "version": "6.9.4",
             "source": {
                 "type": "git",
                 "url": "https://github.com/roots/wordpress.git",
@@ -512,7 +512,7 @@
             ],
             "support": {
                 "issues": "https://github.com/roots/wordpress/issues",
-                "source": "https://github.com/roots/wordpress/tree/6.9.3"
+                "source": "https://github.com/roots/wordpress/tree/6.9.4"
             },
             "funding": [
                 {
@@ -591,23 +591,23 @@
         },
         {
             "name": "roots/wordpress-no-content",
-            "version": "6.9.3",
+            "version": "6.9.4",
             "source": {
                 "type": "git",
                 "url": "https://github.com/WordPress/WordPress.git",
-                "reference": "6.9.3"
+                "reference": "6.9.4"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://downloads.w.org/release/wordpress-6.9.3-no-content.zip",
-                "reference": "6.9.3",
-                "shasum": "e14672fee7607b19a147491748614cb18d033099"
+                "url": "https://downloads.w.org/release/wordpress-6.9.4-no-content.zip",
+                "reference": "6.9.4",
+                "shasum": "8ae812bb54223ef859cd3de37f1c6b1db20e0e6f"
             },
             "require": {
                 "php": ">= 7.2.24"
             },
             "provide": {
-                "wordpress/core-implementation": "6.9.3"
+                "wordpress/core-implementation": "6.9.4"
             },
             "suggest": {
                 "ext-curl": "Performs remote request operations.",
@@ -658,7 +658,7 @@
                     "type": "other"
                 }
             ],
-            "time": "2026-03-10T22:48:34+00:00"
+            "time": "2026-03-11T15:49:55+00:00"
         },
         {
             "name": "roots/wp-config",
@@ -1184,12 +1184,12 @@
             "source": {
                 "type": "git",
                 "url": "https://github.com/Roave/SecurityAdvisories.git",
-                "reference": "4c336cfd0f836275a3ea63a79b5111903f4a8c30"
+                "reference": "1351bc759d815df78e4f07cf23b081671d5e3e65"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/Roave/SecurityAdvisories/zipball/4c336cfd0f836275a3ea63a79b5111903f4a8c30",
-                "reference": "4c336cfd0f836275a3ea63a79b5111903f4a8c30",
+                "url": "https://api.github.com/repos/Roave/SecurityAdvisories/zipball/1351bc759d815df78e4f07cf23b081671d5e3e65",
+                "reference": "1351bc759d815df78e4f07cf23b081671d5e3e65",
                 "shasum": ""
             },
             "conflict": {
@@ -1332,7 +1332,7 @@
                 "cosenary/instagram": "<=2.3",
                 "couleurcitron/tarteaucitron-wp": "<0.3",
                 "cpsit/typo3-mailqueue": "<0.4.3|>=0.5,<0.5.1",
-                "craftcms/cms": "<4.17.3|>=5,<=5.9.8",
+                "craftcms/cms": "<=4.17.3|>=5,<=5.9.8",
                 "craftcms/commerce": ">=4,<4.11|>=5,<5.6",
                 "craftcms/composer": ">=4.0.0.0-RC1-dev,<=4.10|>=5.0.0.0-RC1-dev,<=5.5.1",
                 "craftcms/craft": ">=3.5,<=4.16.17|>=5.0.0.0-RC1-dev,<=5.8.21",
@@ -2206,7 +2206,7 @@
                     "type": "tidelift"
                 }
             ],
-            "time": "2026-03-11T01:36:21+00:00"
+            "time": "2026-03-11T15:18:41+00:00"
         },
         {
             "name": "squizlabs/php_codesniffer",
