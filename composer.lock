@@ -1184,12 +1184,12 @@
             "source": {
                 "type": "git",
                 "url": "https://github.com/Roave/SecurityAdvisories.git",
-                "reference": "260a590309e4e442927d4a7db60fac793c2f46dd"
+                "reference": "77a1ab6669c846b4a82a962c9b6dbb1f5db74ea3"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/Roave/SecurityAdvisories/zipball/260a590309e4e442927d4a7db60fac793c2f46dd",
-                "reference": "260a590309e4e442927d4a7db60fac793c2f46dd",
+                "url": "https://api.github.com/repos/Roave/SecurityAdvisories/zipball/77a1ab6669c846b4a82a962c9b6dbb1f5db74ea3",
+                "reference": "77a1ab6669c846b4a82a962c9b6dbb1f5db74ea3",
                 "shasum": ""
             },
             "conflict": {
@@ -1576,6 +1576,7 @@
                 "jbartels/wec-map": "<3.0.3",
                 "jcbrand/converse.js": "<3.3.3",
                 "joelbutcher/socialstream": "<5.6|>=6,<6.2",
+                "johnbillion/query-monitor": "<3.20.4",
                 "johnbillion/wp-crontrol": "<1.16.2|>=1.17,<1.19.2",
                 "joomla/application": "<1.0.13",
                 "joomla/archive": "<1.1.12|>=2,<2.0.1",
@@ -1941,7 +1942,7 @@
                 "starcitizentools/short-description": ">=4,<4.0.1",
                 "starcitizentools/tabber-neue": ">=1.9.1,<2.7.2|>=3,<3.1.1",
                 "starcitizenwiki/embedvideo": "<=4",
-                "statamic/cms": "<5.73.14|>=6,<6.7",
+                "statamic/cms": "<5.73.14|>=6,<6.7.1",
                 "stormpath/sdk": "<9.9.99",
                 "studio-42/elfinder": "<=2.1.64",
                 "studiomitte/friendlycaptcha": "<0.1.4",
@@ -2135,6 +2136,7 @@
                 "yiisoft/yii2-redis": "<2.0.20",
                 "yikesinc/yikes-inc-easy-mailchimp-extender": "<6.8.6",
                 "yoast-seo-for-typo3/yoast_seo": "<7.2.3",
+                "yoast/duplicate-post": "<=4.5",
                 "yourls/yourls": "<=1.10.2",
                 "yuan1994/tpadmin": "<=1.3.12",
                 "yungifez/skuul": "<=2.6.5",
@@ -2214,7 +2216,7 @@
                     "type": "tidelift"
                 }
             ],
-            "time": "2026-03-19T19:21:34+00:00"
+            "time": "2026-03-19T21:13:45+00:00"
         },
         {
             "name": "squizlabs/php_codesniffer",
