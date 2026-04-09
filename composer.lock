@@ -1184,12 +1184,12 @@
             "source": {
                 "type": "git",
                 "url": "https://github.com/Roave/SecurityAdvisories.git",
-                "reference": "86a37d1fdf8afe7dfcf66236a86f92e53e665c1f"
+                "reference": "c5e319c36bb8e95f3662f05e46f16e89c44da480"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/Roave/SecurityAdvisories/zipball/86a37d1fdf8afe7dfcf66236a86f92e53e665c1f",
-                "reference": "86a37d1fdf8afe7dfcf66236a86f92e53e665c1f",
+                "url": "https://api.github.com/repos/Roave/SecurityAdvisories/zipball/c5e319c36bb8e95f3662f05e46f16e89c44da480",
+                "reference": "c5e319c36bb8e95f3662f05e46f16e89c44da480",
                 "shasum": ""
             },
             "conflict": {
@@ -1245,7 +1245,6 @@
                 "auth0/wordpress": "<=5.5",
                 "automad/automad": "<2.0.0.0-alpha5",
                 "automattic/jetpack": "<9.8",
-                "avideo/avideo": "<=26",
                 "awesome-support/awesome-support": "<=6.0.7",
                 "aws/aws-sdk-php": "<=3.371.3",
                 "ayacoo/redirect-tab": "<2.1.2|>=3,<3.1.7|>=4,<4.0.5",
@@ -1622,6 +1621,7 @@
                 "laravel/fortify": "<1.11.1",
                 "laravel/framework": "<10.48.29|>=11,<11.44.1|>=12,<12.1.1",
                 "laravel/laravel": ">=5.4,<5.4.22",
+                "laravel/passport": "<13.7.1",
                 "laravel/pulse": "<1.3.1",
                 "laravel/reverb": "<1.7",
                 "laravel/socialite": ">=1,<2.0.10",
@@ -2226,7 +2226,7 @@
                     "type": "tidelift"
                 }
             ],
-            "time": "2026-04-08T19:32:10+00:00"
+            "time": "2026-04-08T23:16:29+00:00"
         },
         {
             "name": "squizlabs/php_codesniffer",
