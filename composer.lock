@@ -1184,12 +1184,12 @@
             "source": {
                 "type": "git",
                 "url": "https://github.com/Roave/SecurityAdvisories.git",
-                "reference": "5f6b924eae73ca732e81045a64e3e9298639e172"
+                "reference": "b51e571a33fde01b3ab860e911db8cb269171cca"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/Roave/SecurityAdvisories/zipball/5f6b924eae73ca732e81045a64e3e9298639e172",
-                "reference": "5f6b924eae73ca732e81045a64e3e9298639e172",
+                "url": "https://api.github.com/repos/Roave/SecurityAdvisories/zipball/b51e571a33fde01b3ab860e911db8cb269171cca",
+                "reference": "b51e571a33fde01b3ab860e911db8cb269171cca",
                 "shasum": ""
             },
             "conflict": {
@@ -1509,7 +1509,7 @@
                 "geshi/geshi": "<=1.0.9.1",
                 "getformwork/formwork": "<=2.3.3",
                 "getgrav/grav": "<1.11.0.0-beta1",
-                "getkirby/cms": "<5.4",
+                "getkirby/cms": "<4.9|>=5,<5.4",
                 "getkirby/kirby": "<3.9.8.3-dev|>=3.10,<3.10.1.2-dev|>=4,<4.7.1",
                 "getkirby/panel": "<2.5.14",
                 "getkirby/starterkit": "<=3.7.0.2",
@@ -2234,7 +2234,7 @@
                     "type": "tidelift"
                 }
             ],
-            "time": "2026-04-29T22:22:58+00:00"
+            "time": "2026-04-30T18:34:13+00:00"
         },
         {
             "name": "squizlabs/php_codesniffer",
