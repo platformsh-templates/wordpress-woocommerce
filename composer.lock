@@ -1184,12 +1184,12 @@
             "source": {
                 "type": "git",
                 "url": "https://github.com/Roave/SecurityAdvisories.git",
-                "reference": "515c293bfd8f02861b1a4cae4ad32894d929782f"
+                "reference": "fe5259cf18e8e08943a80406ee8275d5125a82bf"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/Roave/SecurityAdvisories/zipball/515c293bfd8f02861b1a4cae4ad32894d929782f",
-                "reference": "515c293bfd8f02861b1a4cae4ad32894d929782f",
+                "url": "https://api.github.com/repos/Roave/SecurityAdvisories/zipball/fe5259cf18e8e08943a80406ee8275d5125a82bf",
+                "reference": "fe5259cf18e8e08943a80406ee8275d5125a82bf",
                 "shasum": ""
             },
             "conflict": {
@@ -1457,7 +1457,7 @@
                 "ezsystems/repository-forms": ">=2.3,<2.3.2.1-dev|>=2.5,<2.5.15",
                 "ezyang/htmlpurifier": "<=4.2",
                 "facade/ignition": "<1.16.15|>=2,<2.4.2|>=2.5,<2.5.2",
-                "facturascripts/facturascripts": "<2025.81",
+                "facturascripts/facturascripts": "<=2025.92|>=2026,<=2026.1",
                 "fastly/magento2": "<1.2.26",
                 "feehi/cms": "<=2.1.1",
                 "feehi/feehicms": "<=2.1.1",
@@ -1572,6 +1572,7 @@
                 "innologi/typo3-appointments": "<2.0.6",
                 "intelliants/subrion": "<4.2.2",
                 "inter-mediator/inter-mediator": "==5.5",
+                "intercom/intercom-php": "==5.0.2",
                 "invoiceninja/invoiceninja": "<5.13.4",
                 "ipl/web": "<=0.13",
                 "islandora/crayfish": "<4.1",
@@ -1704,6 +1705,7 @@
                 "miniorange/miniorange-saml": "<1.4.3",
                 "miraheze/ts-portal": "<=33",
                 "mittwald/typo3_forum": "<1.2.1",
+                "mix/mix": ">=2,<=2.2.17",
                 "mobiledetect/mobiledetectlib": "<2.8.32",
                 "modx/revolution": "<=3.1",
                 "mojo42/jirafeau": "<4.4",
@@ -2240,7 +2242,7 @@
                     "type": "tidelift"
                 }
             ],
-            "time": "2026-05-06T23:20:48+00:00"
+            "time": "2026-05-07T20:31:03+00:00"
         },
         {
             "name": "squizlabs/php_codesniffer",
