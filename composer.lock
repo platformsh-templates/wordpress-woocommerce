@@ -1184,12 +1184,12 @@
             "source": {
                 "type": "git",
                 "url": "https://github.com/Roave/SecurityAdvisories.git",
-                "reference": "fe5259cf18e8e08943a80406ee8275d5125a82bf"
+                "reference": "da5ea382371ce364f5b50de204e3830b6efc6eec"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/Roave/SecurityAdvisories/zipball/fe5259cf18e8e08943a80406ee8275d5125a82bf",
-                "reference": "fe5259cf18e8e08943a80406ee8275d5125a82bf",
+                "url": "https://api.github.com/repos/Roave/SecurityAdvisories/zipball/da5ea382371ce364f5b50de204e3830b6efc6eec",
+                "reference": "da5ea382371ce364f5b50de204e3830b6efc6eec",
                 "shasum": ""
             },
             "conflict": {
@@ -2113,7 +2113,7 @@
                 "wallabag/wallabag": "<2.6.11",
                 "wanglelecc/laracms": "<=1.0.3",
                 "wapplersystems/a21glossary": "<=0.4.10",
-                "web-auth/webauthn-framework": ">=3.3,<3.3.4|>=4.5,<4.9|>=5.2,<5.2.4",
+                "web-auth/webauthn-framework": ">=3.3,<3.3.4|>=4.5,<4.9|>=5.2,<5.2.4|>=5.3,<5.3.1",
                 "web-auth/webauthn-lib": ">=4.5,<4.9|>=5.2,<5.2.4",
                 "web-auth/webauthn-symfony-bundle": ">=5.2,<5.2.4",
                 "web-feet/coastercms": "==5.5",
@@ -2242,7 +2242,7 @@
                     "type": "tidelift"
                 }
             ],
-            "time": "2026-05-07T20:31:03+00:00"
+            "time": "2026-05-07T21:23:59+00:00"
         },
         {
             "name": "squizlabs/php_codesniffer",
