@@ -1184,12 +1184,12 @@
             "source": {
                 "type": "git",
                 "url": "https://github.com/Roave/SecurityAdvisories.git",
-                "reference": "58d7f2c580a2e4e400d89bf977f70910bb21a70e"
+                "reference": "d59bd7f09761435c5818e64cab019ca56e0137cd"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/Roave/SecurityAdvisories/zipball/58d7f2c580a2e4e400d89bf977f70910bb21a70e",
-                "reference": "58d7f2c580a2e4e400d89bf977f70910bb21a70e",
+                "url": "https://api.github.com/repos/Roave/SecurityAdvisories/zipball/d59bd7f09761435c5818e64cab019ca56e0137cd",
+                "reference": "d59bd7f09761435c5818e64cab019ca56e0137cd",
                 "shasum": ""
             },
             "conflict": {
@@ -2151,7 +2151,8 @@
                 "web-auth/webauthn-lib": ">=4.5,<4.9|>=5.2,<5.2.4",
                 "web-auth/webauthn-symfony-bundle": ">=5.2,<5.2.4",
                 "web-feet/coastercms": "==5.5",
-                "web-token/jwt-framework": "<3.4.10|>=4,<4.0.7|>=4.1,<4.1.7",
+                "web-token/jwt-experimental": "<=4.1.6",
+                "web-token/jwt-framework": "<=4.2.99",
                 "web-token/jwt-library": "<3.4.10|>=4,<4.0.7|>=4.1,<4.1.7",
                 "web-tp3/wec_map": "<3.0.3",
                 "webbuilders-group/silverstripe-kapost-bridge": "<0.4",
@@ -2278,7 +2279,7 @@
                     "type": "tidelift"
                 }
             ],
-            "time": "2026-06-18T20:52:54+00:00"
+            "time": "2026-06-18T21:44:25+00:00"
         },
         {
             "name": "squizlabs/php_codesniffer",
