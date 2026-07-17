@@ -1184,12 +1184,12 @@
             "source": {
                 "type": "git",
                 "url": "https://github.com/Roave/SecurityAdvisories.git",
-                "reference": "011e632da5c47d2334aa53af9659be61cc52cd54"
+                "reference": "526c3e9555f6912cb025c1357e66956b1a1621c9"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/Roave/SecurityAdvisories/zipball/011e632da5c47d2334aa53af9659be61cc52cd54",
-                "reference": "011e632da5c47d2334aa53af9659be61cc52cd54",
+                "url": "https://api.github.com/repos/Roave/SecurityAdvisories/zipball/526c3e9555f6912cb025c1357e66956b1a1621c9",
+                "reference": "526c3e9555f6912cb025c1357e66956b1a1621c9",
                 "shasum": ""
             },
             "conflict": {
@@ -1819,7 +1819,7 @@
                 "personnummer/personnummer": "<3.0.2",
                 "ph7software/ph7builder": "<=17.9.1",
                 "phanan/koel": "<=9.7",
-                "pheditor/pheditor": ">=2.0.1,<=2.0.3",
+                "pheditor/pheditor": "<2.0.6",
                 "phenx/php-svg-lib": "<0.5.2",
                 "php-censor/php-censor": "<2.0.13|>=2.1,<2.1.5",
                 "php-mod/curl": "<2.3.2",
@@ -2298,7 +2298,7 @@
                     "type": "tidelift"
                 }
             ],
-            "time": "2026-07-16T19:08:58+00:00"
+            "time": "2026-07-16T20:57:14+00:00"
         },
         {
             "name": "squizlabs/php_codesniffer",
