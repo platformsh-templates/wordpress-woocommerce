@@ -1184,12 +1184,12 @@
             "source": {
                 "type": "git",
                 "url": "https://github.com/Roave/SecurityAdvisories.git",
-                "reference": "bffbcefd4888dc8e04690bfb04bcdf4a62ab26da"
+                "reference": "e2d6c51234af0e54a4726e260447a297bae26303"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/Roave/SecurityAdvisories/zipball/bffbcefd4888dc8e04690bfb04bcdf4a62ab26da",
-                "reference": "bffbcefd4888dc8e04690bfb04bcdf4a62ab26da",
+                "url": "https://api.github.com/repos/Roave/SecurityAdvisories/zipball/e2d6c51234af0e54a4726e260447a297bae26303",
+                "reference": "e2d6c51234af0e54a4726e260447a297bae26303",
                 "shasum": ""
             },
             "conflict": {
@@ -1521,7 +1521,7 @@
                 "georgringer/news": "<10.0.4|>=11,<11.4.4|>=12,<12.3.2|>=13,<13.0.2|>=14,<14.0.3",
                 "geshi/geshi": "<=1.0.9.1",
                 "getformwork/formwork": "<=2.3.3",
-                "getgrav/grav": "<2.0.4",
+                "getgrav/grav": "<=2.0.19",
                 "getgrav/grav-plugin-api": "<1.0.0.0-beta15",
                 "getgrav/grav-plugin-form": "<9.1",
                 "getkirby/cms": "<=4.9.3|>=5,<=5.4.3",
@@ -2305,7 +2305,7 @@
                     "type": "tidelift"
                 }
             ],
-            "time": "2026-08-20T19:30:24+00:00"
+            "time": "2026-08-21T19:25:46+00:00"
         },
         {
             "name": "squizlabs/php_codesniffer",
